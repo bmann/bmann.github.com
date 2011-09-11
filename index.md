@@ -8,10 +8,10 @@ title: bmann on Github
 
 ## Sections
 
-* <a href='/classafloat/'>Class Afloat 1993 - 1994</a>
+* [Class Afloat 1993 - 1994](/classafloat/)
 
 ## Posts
 
-site.posts
+{{ site.posts }}
 
 There should be a list of site posts above this text.
