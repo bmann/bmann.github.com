@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Intro and Itinerary Map
+title: Yearbook Class Afloat 1993 - 1994
+subtitle: Intro and Itinerary Map
 ---
 
 Do you remember sun-drenched Wotje, with the little girl who presses a pretty shell into your hand and laughs? Do you remember Typhoon Kyle, and furling sails in 50 knots of wind and 40 foot waves? Do you remember a week out of Honolulu, already part of the family, when friendly Roger sailes out from Palmyra, sharing his island paradise? Do you remember sailing under the Golden Gate bridge, seeing parents waiting, and having the family scatter across the country, around the world?
