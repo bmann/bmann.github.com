@@ -7,4 +7,4 @@ The sections and images below are scans of the Yearbook for the 1993 - 1994 Clas
 
 ## Ports of Call and Yearbook Sections
 
-* [Intro and Itinerary Map]("/classafloat/yearbook/intro-itinerary-map/")
+* [Intro and Itinerary Map](/classafloat/yearbook/intro-itinerary-map/)
