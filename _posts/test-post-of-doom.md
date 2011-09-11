@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Test Post Of Doom (with extras to see title)
 category:
 - Test
