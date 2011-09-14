@@ -1,3 +1,0 @@
-[Intro and Itinerary Map]:			http://beta.bmannconsulting.com/classafloat/yearbook/intro-itinerary-map/			"Intro and Itinerary Map"
-[Vancouver, BC, Canada]:			http://beta.bmannconsulting.com/classafloat/yearbook/vancouver-bc-canada/			"Vancouver, BC, Canada"
-[Port Angeles, WA, United States]:	http://beta.bmannconsulting.com/classafloat/yearbook/port-angeles-united-states/	"Port Angeles, WA, United States"
