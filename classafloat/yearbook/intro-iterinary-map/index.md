@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: yearbook
 title: Intro and Itinerary Map
 subtitle: Yearbook Class Afloat 1993 - 1994
 ---
 
-Do you remember sun-drenched Wotje, with the little girl who presses a pretty shell into your hand and laughs? Do you remember Typhoon Kyle, and furling sails in 50 knots of wind and 40 foot waves? Do you remember a week out of Honolulu, already part of the family, when friendly Roger sailes out from Palmyra, sharing his island paradise? Do you remember sailing under the Golden Gate bridge, seeing parents waiting, and having the family scatter across the country, around the world?
+Do you remember sun-drenched [Wotje](wotje-marshalle-islands), with the little girl who presses a pretty shell into your hand and laughs? Do you remember Typhoon Kyle, and furling sails in 50 knots of wind and 40 foot waves? Do you remember a week out of Honolulu, already part of the family, when friendly Roger sailes out from [Palmyra](palmyra-atoll), sharing his island paradise? Do you remember sailing under the Golden Gate bridge, seeing parents waiting, and having the family scatter across the country, around the world?
 
 Turn these pages, and remember the ports. Remember also the people. Your roommates, your watchmates, your teachers, the crew, your friends. Remember the ship, her tall masts towering above you. The sails filling with a snap and proud maple leaves billowing out as she leaps forward, dolphins and blue, blue waves her only companions.
 
@@ -12,7 +12,7 @@ You scurry about on deck, acid-washing your fingers to the bone. Scuppers, deck 
 
 Remember those endless nights on watch? Struggling to keep awake, keeping your eyes glued to the red glowing compass. Staring off at the horizon, watching the first faint rays of the sun creep up.
 
-It's all in here, so you'll never forget. The voyages of the <em>S/V Concordia</em>, 1993 - 1994.
+It's all in here, so you'll never forget. The voyages of the [S/V Concordia](/classafloat/sv-concordia), 1993 - 1994.
 
 <img src="/classafloat/images/yearbook/01_intro_and_map.jpg" />
 

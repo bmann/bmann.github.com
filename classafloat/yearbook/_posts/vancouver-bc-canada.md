@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: yearbook
 title: Vancouver, BC, Canada
 subtitle: Yearbook Class Afloat 1993 - 1994
 ---
