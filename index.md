@@ -10,8 +10,12 @@ title: bmann on Github
 
 * [Class Afloat 1993 - 1994](/classafloat/)
 
-## Posts
+## News
 
-{% for post in site.posts limit:15 %}
- * [{{ post.title }}]({{ post.url }})
+{% for post in site.categories.news %}* [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+## All Updates
+
+{% for post in site.posts limit:15 %}* [{{ post.title }}]({{ post.url }})
 {% endfor %}
