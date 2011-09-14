@@ -13,3 +13,12 @@ In 1993, I graduated from Sentinel Secondary School in West Vancouver. In late A
 ## Sections
 
 * [Class Afloat Yearbook](/classafloat/yearbook/)
+
+## TO DO
+
+A possible list of to-dos.
+
+* upload all scanned images to Flickr and then embed here - benefit would be overlay notes, incl. identifying people, setting location in a map, and then being able to embed the entire map somewhere
+* authors of pages use initials - need to track down actual author full names, write blurb for each one
+* fill out about Class Afloat page
+* fill out S/V Concordia page
