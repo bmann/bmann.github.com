@@ -15,5 +15,3 @@ title: bmann on Github
 {% for post in site.posts limit:15 %}
  * [{{ post.title }}]({{ post.url }})
 {% endfor %}
-
-There should be a list of site posts above this text.
