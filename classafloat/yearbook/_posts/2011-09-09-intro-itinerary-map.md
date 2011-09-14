@@ -14,6 +14,8 @@ Remember those endless nights on watch? Struggling to keep awake, keeping your e
 
 It's all in here, so you'll never forget. The voyages of the [S/V Concordia](/classafloat/sv-concordia), 1993 - 1994.
 
+-[BM](/classafloat/yearbook/#BM)
+
 <img src="/classafloat/images/yearbook/01_intro_and_map.jpg" />
 
 Official Yearbook Cartographer: Daniel Feinstein

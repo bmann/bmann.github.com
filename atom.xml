@@ -4,9 +4,9 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>coyled.com</title>
-  <link href="http://coyled.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://coyled.com/atom.xml"/>
+  <title>Boris Mann (Beta Jekyll / GitHub Pages)</title>
+  <link href="http://beta.bmannconsulting.com"/>
+  <link type="application/atom+xml" rel="self" href="http://beta.bmannconsulting.com/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://beta.bmannconsulting.com</id>
   <author>
@@ -16,13 +16,13 @@ layout: nil
 
   {% for post in site.posts %}
   <entry>
-    <id>http://coyled.com{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://coyled.com{{ post.url }}"/>
+    <id>http://beta.bmannconsulting.com{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://beta.bmannconsulting.com{{ post.url }}"/>
     <title>{{ post.title }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Dave Coyle</name>
-      <uri>http://coyled.com/</uri>
+      <name>Boris Mann</name>
+      <uri>http://bmannconsulting.com</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
