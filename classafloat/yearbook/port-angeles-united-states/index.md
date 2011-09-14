@@ -6,6 +6,8 @@ subtitle: Yearbook Class Afloat 1993 - 1994
 
 First stop. An American logging town. We walked on her hilled downtown streets, browsed the thrift shops, touched the spiny sea thingers in the marine museum, and started our world-wide patronage of the golden arches. Yet, if we were blessed with the skills of the prophets, the foresight of Nostradamus, we would have flooded the market and bought the whole darn town out of Gravol.
 
+-[RK](/classafloat/yearbook/#RK)
+
 <img src="/classafloat/images/yearbook/03_port_angeles_washington.jpg" alt="Class Afloat Yearbook 93-94 - 3 - Port Angeles, Washington" />
 
 <div id="commentary">
