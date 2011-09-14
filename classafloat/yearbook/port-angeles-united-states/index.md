@@ -4,7 +4,7 @@ title: Port Angeles, WA, United States
 subtitle: Yearbook Class Afloat 1993 - 1994
 ---
 
-<img src="/classafloat/yearbook/images/03_port_angeles_washington.jpg" alt="Class Afloat Yearbook 93-94 - 3 - Port Angeles, Washington" />
+<img src="/classafloat/images/yearbook/03_port_angeles_washington.jpg" alt="Class Afloat Yearbook 93-94 - 3 - Port Angeles, Washington" />
 
 * [Port Angeles Flickr Place Page](http://www.flickr.com/places//United+States/Washington/Port+Angeles)
 
