@@ -1,3 +1,7 @@
-This is the work-in-progress version of http://beta.bmannconsulting.com that will eventually replace http://bmannconsulting.com
+Home of [projects.bmannconsulting.com](http://projects.bmannconsulting.com).
 
-All written material is available under a Creative Commons - Non Commercial - Share Alike license.
+See also:
+
+* [bmannconsulting.com](http://www.bmannconsulting.com)
+* [blog.bmannconsulting.com](http://blog.bmannconsulting.com)
+* [links.bmannconsulting.com](http://links.bmannconsulting.com)
