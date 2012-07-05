@@ -2,20 +2,21 @@
 layout: default
 title: bmann on Github
 ---
+Hi!
+
+This is Boris' Projects space on GitHub. My GitHub account is [bmann](http://github.com/bmann). Here's where else you can find me: 
 
 * Tech blog: <http://blog.bmannconsulting.com>
-* Personal blog: <http://bmann.ca>
+* Link blog: <http://links.bmannconsulting.com>
+* Personal blog: <http://blog.bmann.ca>
 
-## Sections
+## Talks
 
-* [Class Afloat 1993 - 1994](/classafloat/)
+* [Static Site Generators Lightning Talk](/ssg-lightning-talk)
 
-## News
+## Code
 
-{% for post in site.categories.news %}* [{{ post.title }}]({{ post.url }})
-{% endfor %}
+* [Posterous Export](/posterous-export): Ruby script that exports posts & files into Octopress-compatible Markdown files
+* [Nodejs Getting Started](/nodejs-getting-started): following along from "Hello World"
 
-## All Updates
 
-{% for post in site.posts limit:15 %}* [{{ post.title }}]({{ post.url }})
-{% endfor %}
