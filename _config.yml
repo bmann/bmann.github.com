@@ -1,3 +1,3 @@
 url: http://projects.bmannconsulting.com
-permalink: /:title/
+permalink: /:year/:title/
 exclude: [CNAME, README.md, .gitignore]
