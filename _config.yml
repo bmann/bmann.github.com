@@ -1,1 +1,3 @@
-permalink: /:categories/:title/
+url: http://projects.bmannconsulting.com
+permalink: /:title/
+exclude: [CNAME, README.md, .gitignore]

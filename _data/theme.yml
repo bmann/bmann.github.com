@@ -1,0 +1,33 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#3498db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: bmann
+  #bitbucket: philipj
+  #hacker_news: swanson
+  #stackexchange: 348619
+  #stackoverflow: 348619
+  twitter: bmann
+  #facebook: zuck
+  tumblr: borismann
+  linkedin: boris
+  #gplus: 110552447039675960964
+  gravatar: 725e3e8f63148459cdbb84f4d673d0ad
+  #flickr: johndoe
+
+# "Hi, I'm _______"
+name: Boris Mann
+#email: test@example.com
+tagline: "bmann on GitHub"
+
+# Google Analytics key, leave blank to ignore
+# google_analytics_key: UA-xxxx-x
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: false
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+show_atom_feed: true
