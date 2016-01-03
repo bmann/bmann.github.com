@@ -13,4 +13,4 @@ The [category index on my bmannconsulting.com site](http://www.bmannconsulting.c
 
 Probably an easier way to do this would be to make a list of canonical ingredients, and if an ingredient line item contains one of them, it gets added.
 
-More thinking about this in the [colophon for the site](http://projects.bmannconsulting.com/cookbookshelf/colophon/).
+More thinking about this in the [colophon for the site](http://projects.bmannconsulting.com/cookbookshelf/colophon).
