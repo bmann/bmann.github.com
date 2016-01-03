@@ -2,10 +2,7 @@
 layout: post
 title: Aframe Boilerplate
 category:
-- VR
-tags:
-- aframe
-- WebVR
+- AframeVR
 ---
 
 My first Aframe Boilerplate attempt:

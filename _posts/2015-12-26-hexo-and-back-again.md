@@ -3,10 +3,6 @@ layout: post
 title: Hexo and Back Again
 category:
 - Meta
-tags:
-- Hexo
-- Hugo
-- GitHub Pages
 ---
 
 I spent a chunk of time taking what was a very bare bones Jekyll site and mucked about with [Hexo](http://hexo.io). Which of course means that you need to run a generate step.
