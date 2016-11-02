@@ -1,3 +1,16 @@
+---
+title: Bmann.Github.Com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 url: http://projects.bmannconsulting.com
-permalink: /:year/:title/
-exclude: [CNAME, README.md, .gitignore]
+permalink: "/:year/:title/"
+exclude:
+- CNAME
+- README.md
+- ".gitignore"

@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Aframe Boilerplate
-category:
+date: 2015-12-22 00:00:00 Z
+categories:
 - AframeVR
+layout: post
 ---
 
 My first Aframe Boilerplate attempt:

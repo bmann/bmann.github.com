@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Hexo and Back Again
-category:
+date: 2015-12-26 00:00:00 Z
+categories:
 - Meta
+layout: post
 ---
 
 I spent a chunk of time taking what was a very bare bones Jekyll site and mucked about with [Hexo](http://hexo.io). Which of course means that you need to run a generate step.

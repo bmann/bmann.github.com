@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Cookbook Shelf Updated
-category:
+date: 2016-01-03 00:00:00 Z
+categories:
 - CookbookShelf
+layout: post
 ---
 
 I finally got back to properly generating [bmann/cookbookshelf](http://github.com/bmann/cookbookshelf), now that I blew the dust off my Jekyll coding. See it at [projects.bmannconsulting.com/cookbookshelf](http://projects.bmannconsulting.com/cookbookshelf/)
